@@ -1,10 +1,12 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
-## https://youtu.be/BCp_5PoKrvI
+# Weather App with Next JS, React, Shadcn UI, Recharts, Tailwind, Typescript
 
-![klimate](https://github.com/user-attachments/assets/03aed8a9-f2e1-4fcf-8628-5d1abd0c678c)
 
-### Make sure to create a `.env` file with following variables -
+
+
+
 
 ```
-VITE_OPENWEATHER_API_KEY=
+VITE_OPENWEATHER_API_KEY=a1f6a017279b6187e8c5da2cdbe6f8ff
 ```
+run commands: npm i, npm run dev
+deploy link: https://climato07.netlify.app/
